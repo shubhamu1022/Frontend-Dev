@@ -1,0 +1,48 @@
+.logo-img {
+    width: 300px;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-input {
+    margin-top: 50px;
+    width: 400px;
+    display: block;
+    line-height: 24px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #dfe1e5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 24px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+button{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-right: 4px;
+    margin-left: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 0.1px solid #222222;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
+
+.button-wrapper{
+    display: flex;
+    justify-content: center;
+}

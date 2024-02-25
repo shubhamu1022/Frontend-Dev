@@ -1,0 +1,62 @@
+body{
+    font-family: "Happy Monkey", system-ui;
+    text-align: center;
+    background: linear-gradient(lightblue,#EFB0C9);
+    color: #ffffff;
+    text-shadow: 0px 0px 3px black;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bday-age{
+    background:#EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#bday-date{
+    margin-top: 0px;
+    background:#EFB0C9;
+    padding: 5px 10px;
+    margin-bottom: 0px;
+}
+
+#profile-pic{
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #EFB0C9;
+}
+
+.gift-cover{
+    width: 400px;
+    height: 400px;
+    background-image: url(./images/gift-cover.jpg);
+    background-size: cover;
+    border: 6px solid white;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gift-section{
+    margin-top: 20px;
+}
+
+.gift-cover:hover{
+    background-image: url(https://media1.tenor.com/m/v_H4t7Y6xBAAAAAC/excited-friends-rachel.gif);
+}
+
+.gift-hint{
+    margin-top: 0;
+}
+
+.gift-title{
+    margin-bottom: 10px;
+}
+

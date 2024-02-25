@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Corleone;
+    src: url(TheGodfather-v2.ttf);
+}
+
+h1{
+    font-family: Corleone;
+    font-size: 100px;
+}
